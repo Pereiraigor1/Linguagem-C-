@@ -1,0 +1,23 @@
+Equipe: Igor Rafael da Silva Pereira
+	Evaldo Pereira Gama Júnior
+	Claudemir Valente Soares
+	Washigton Henrique Alves Júnior
+	
+
+Para os integrantes: 
+	Obs: Quando lerem, apaguem essa parte.
+
+Por favor, quando abrirem o arquivo 3.11.cpp
+alterem lá no fim do código o nome 
+'Igor Rafael da Silva Pereira' e adicionem o de
+vocês. Assim que fizerem isso, podem enviar normalmente.
+
+
+
+
+
+
+Para o Professor:
+	As questões "escritas estão no formato.cpp".
+
+3-5 até 3-8.
